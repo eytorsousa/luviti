@@ -15,7 +15,6 @@
   <img align="center" alt="Luviti-AngularJs" height="auto" width="auto" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Luviti-React" height="auto" width="auto" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Luviti-VueJs" height="auto" width="auto" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img align="center" alt="Luviti-React" height="auto" width="auto" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
 <div align=center style="display: inline_block"><br>

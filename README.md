@@ -15,6 +15,7 @@
   <img align="center" alt="Luviti-React" height="auto" width="auto" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Luviti-Sass" height="auto" width="auto" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Luviti-Sass" height="auto" width="auto" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
+  <img align="center" alt="Luviti-Sass" height="auto" width="auto" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 <div align=center style="display: inline_block"><br>

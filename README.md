@@ -17,6 +17,8 @@
   <img align="center" alt="Luviti-Less" height="auto" width="auto" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
   <img align="center" alt="Luviti-NodeJs" height="auto" width="auto" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Luviti-ExpressJs" height="auto" width="auto" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="Luviti-Mysql" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
 </div>
 
 <div align=center style="display: inline_block"><br>
